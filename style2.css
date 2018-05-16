@@ -1,0 +1,47 @@
+body {
+    background-image:url("https://www.wallpaperup.com/uploads/wallpapers/2012/11/26/22635/cc34cc07222b320c52d24239eb7051c1-1000.jpg");
+    background-attachment:fixed;
+}
+
+h1 {
+    position:relative;
+    top: 120px;
+    color: yellow;
+    text-align: center;
+    font-family: verdana;
+    font-size: 50px;
+}
+form {
+    text-align: center;
+    position:relative;
+    top:300px;
+    color:white;
+    font-family: arial;
+    font-size: 20px;
+    font-style: bold;
+    
+    
+    
+}
+
+input[type=text]:focus {
+    border: 3px solid red;
+    border-radius: 5px;
+}
+ 
+a {
+    color: white;
+    text-decoration: none;
+    position:relative;
+    text-align: center;
+    top: 570px;
+    font-size:17px;
+    font-style:bold;
+    margin-left:815px;
+}
+a:hover {
+    color: hotpink;
+    text-decoration:underline;
+}
+    
+
