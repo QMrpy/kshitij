@@ -1,2 +1,2 @@
-# kshitij
-web development for kshitij
+# Kshitij
+web development for Kshitij
